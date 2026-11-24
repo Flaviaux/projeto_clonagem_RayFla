@@ -1,1 +1,1 @@
-print("OI diva pop, minha jogadora profissional, a no comando do grupo GC, a mais linda de todas (fora a beyoncé e a minha mãe)!")
+print("OI diva pop, minha jogadora profissional, a no comando do grupo GC, a mais linda de todas (fora a beyoncé e a minha mãe)!!!")
